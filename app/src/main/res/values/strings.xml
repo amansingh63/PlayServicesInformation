@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Play Services Info</string>
+    <string name="text_play_services_installed">Google Play Services are installed on this device.</string>
+    <string name="text_play_services_not_installed">Google Play Services are not installed on this device.</string>
+    <string name="text_view_app_info_in_settings">View App Info In Settings</string>
+    <string name="text_view_on_play_store">View on Play Store</string>
+    <string name="text_view_on_apkmirror">View On ApkMirror</string>
+</resources>
