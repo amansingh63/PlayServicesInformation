@@ -7,7 +7,7 @@
     android:background="@color/colorBackground"
     android:fillViewport="true"
     android:orientation="vertical"
-    tools:context="com.amansingh.playservicesinfo.MainActivity">
+    tools:context="com.amansingh.playservicesinformation.MainActivity">
 
     <LinearLayout
         android:layout_width="match_parent"

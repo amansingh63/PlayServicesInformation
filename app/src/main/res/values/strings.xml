@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Play Services Info</string>
+    <string name="app_name">Play Services Information</string>
     <string name="text_play_services_installed">Google Play Services are installed on this device.</string>
     <string name="text_play_services_not_installed">Google Play Services are not installed on this device.</string>
     <string name="text_view_app_info_in_settings">View App Info In Settings</string>

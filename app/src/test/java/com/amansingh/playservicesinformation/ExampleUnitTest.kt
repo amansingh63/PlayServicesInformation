@@ -1,4 +1,4 @@
-package com.amansingh.playservicesinfo
+package com.amansingh.playservicesinformation
 
 import org.junit.Test
 
