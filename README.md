@@ -4,4 +4,4 @@ Android appliction to get the current Google play Services Version installed on 
 Written in Kotlin language
 
 
-![Alt text](http://imgur.com/a/qpHAx "Screenshot")
+[![Screenshot1.png](https://s3.postimg.org/4plll0d7n/Screenshot1.png)](https://postimg.org/image/knubb57fj/)
