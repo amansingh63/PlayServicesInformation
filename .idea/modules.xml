@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Desktop.PlayServicesInformation.iml" filepath="$PROJECT_DIR$/.idea/modules/Desktop.PlayServicesInformation.iml" />
       <module fileurl="file://$PROJECT_DIR$/PlayServicesInformation.iml" filepath="$PROJECT_DIR$/PlayServicesInformation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PlayServicesInformation.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PlayServicesInformation.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PlayServicesInformation.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PlayServicesInformation.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PlayServicesInformation.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PlayServicesInformation.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PlayServicesInformation.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PlayServicesInformation.app.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
